@@ -1,0 +1,11 @@
+E:\IntroCSharp\Programming101\ABChec\bin\Debug\ABChec.exe.config
+E:\IntroCSharp\Programming101\ABChec\bin\Debug\ABChec.exe
+E:\IntroCSharp\Programming101\ABChec\bin\Debug\ABChec.pdb
+E:\IntroCSharp\Programming101\ABChec\obj\Debug\ABChec.exe
+E:\IntroCSharp\Programming101\ABChec\obj\Debug\ABChec.pdb
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\bin\Debug\ABChec.exe.config
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\obj\Debug\ABChec.exe
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\obj\Debug\ABChec.pdb
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\obj\Debug\ABCheck.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\bin\Debug\ABChec.exe
+C:\Users\Miroslav Marinov\Desktop\Programming101\ABChec\bin\Debug\ABChec.pdb
